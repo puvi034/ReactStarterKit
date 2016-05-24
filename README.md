@@ -22,4 +22,4 @@ React Projects.
 
 
 Webpack Dev server can be started with the below command.[Webapck and Package.json files have configured to start the server with npm start command]
-npm start 
+ npm start 
