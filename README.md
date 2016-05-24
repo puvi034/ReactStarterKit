@@ -21,5 +21,5 @@ This project also contains App.js[Project entry point configured in webpack.conf
 React Projects.
 
 
-Webpack Dev server can be started with the below command.
-npm start [Webapck and Package.json files have configured to start the server with npm start command]
+Webpack Dev server can be started with the below command.[Webapck and Package.json files have configured to start the server with npm start command]
+npm start 
