@@ -1,21 +1,21 @@
 {
-  "name": "react_todo_list_app",
+  "name": "ReactStarterKit",
   "version": "1.0.0",
-  "description": "This is to understand the Redux basic workflow with React components",
+  "description": "This starter helps to get started with React with NPM Modules",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puvi034/ReactTodoListApp.git"
+    "url": "git+https://github.com/puvi034/ReactStarterKit.git"
   },
   "author": "Puneeth T S",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/puvi034/ReactTodoListApp/issues"
+    "url": "https://github.com/puvi034/ReactStarterKit/issues"
   },
-  "homepage": "https://github.com/puvi034/ReactTodoListApp#readme",
+  "homepage": "https://github.com/puvi034/ReactStarterKit#readme",
   "dependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.8.0",
